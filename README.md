@@ -23,18 +23,6 @@
 - **C++17** 또는 **C++20**
 - 컴파일러: `g++`, `clang++` 등
 
-## 📌 폴더 구조 예시
-```
-coding-test/
-├── sorting/
-│ └── quick_sort.cpp
-├── dp/
-│ └── fibonacci_memo.cpp
-├── graph/
-│ └── dijkstra.cpp
-└── README.md
-```
-
 ## 📝 작성 규칙
 
 - 문제 출처와 링크 주석으로 명시
